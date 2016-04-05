@@ -1,0 +1,47 @@
+extends _template
+
+block var
+	- var pageTitl = "TypeChat for WeChat" + " | The Type"
+	- var pageDisc = "Article for WeChat"
+	- var pageKeyw = "web, design, develop, demo, wechat"
+	- var bodyClass = "body"
+	- var verTag = "1.0"
+	//--- Fake data
+
+block bodyMain
+	#main
+		.article.typechat
+			section.body
+				p 本期节目将与大家分享三封长信、二则新闻；并附一例勘误，以正视听。另有 ATypI 两位主席的远道问候。
+				p 虽难逐一回覆，《字谈字畅》来函必读。再次感谢大家的支持和鼓励，批评及建议。也欢迎致信 <u>podcast@thetype.com</u> 畅谈「听众反馈」的后续反馈。
+				p 点击左下角「<span class="red">阅读原文</span>」，或访问 <u>typeisbeautiful.com/2016/03/10221/</u>，即可浏览更多相关信息及参考链接。
+			section.divider
+				p * * *
+			section.heading
+				h3 订阅方式
+			section.body
+				p 在你喜爱的播客客户端（podcast app）搜索「字谈字畅」或直接订阅如下 URL：<br><u class="red">typeisbeautiful.com/feed/typechat/</u>
+				ul
+					li iTunes：<br><u>https://itunes.apple.com/cn/podcast/zi-tan-zi-chang/id1041704528</u>
+					li 下载音频：<br><u>http://thetype.b0.upaiyun.com/typechat/typechat018.mp3</u>
+					li 荔枝 FM：<br><u>http://lizhi.fm/1852153/2526694269564351494</u>
+			section.divider
+				p * * *
+			section.heading
+				h3 特别来客
+			section.body--figure
+				ul
+					li José Scaglione：ATypI 现任主席，平面设计师及字体设计师，TypeTogether 联合创始人
+					li Gerry Leonidas：ATypI 现任副主席，英国雷丁大学副教授
+			section.heading
+				h3 主播
+			section.body--figure
+				ul
+					li Eric：字体排印研究者，译者，Type is Beautiful 编辑
+					li 蒸鱼：设计师，Type is Beautiful 编辑
+			section.body
+				p 欢迎致信 <u>podcast@thetype.com</u> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。
+			section.footer
+				img(src="assets/wechat-footer.png")
+				p http://typeisbeautiful.com
+				p 微信公众号「The Type」。您亦可选择在微博、Twitter、Facebook 和 Google+ 上关注我们。
