@@ -399,7 +399,22 @@ img {
       -ms-hyphens: auto;
           hyphens: auto;
 }
-.typechat .body ul {
+.typechat .body-list {
+  margin-top: 0px;
+  margin-bottom: 26px;
+}
+.typechat .body-list p {
+  color: #595959;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 7px;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+}
+.typechat .body-list ul {
+  list-style-type: disc;
   margin-top: 13px;
   margin-bottom: 13px;
   margin-left: 0px;
@@ -408,20 +423,42 @@ img {
   font-size: 16px;
   line-height: 26px;
 }
-.typechat .body--figure ul {
-  margin-left: 0px;
+.typechat .body-list li {
+  color: #595959;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0;
+}
+.typechat .body-list--figure {
+  margin-top: 0px;
+  margin-bottom: 26px;
+}
+.typechat .body-list--figure p {
+  color: #595959;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 7px;
+  margin-bottom: 0px;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+}
+.typechat .body-list--figure ul {
+  list-style-type: disc;
+  margin-top: 13px;
   margin-bottom: 13px;
+  margin-left: 0px;
   padding-left: 26px;
   color: #595959;
   font-size: 16px;
   line-height: 26px;
 }
-.typechat .body li,
-.typechat .body--figure li {
+.typechat .body-list--figure li {
   color: #595959;
   font-size: 16px;
   line-height: 26px;
-  margin-bottom: 7px;
+  margin: 0;
 }
 .typechat .body strong {
   font-weight: 600;
@@ -433,11 +470,9 @@ img {
 .typechat .body .red {
   color: #a61111;
 }
-.typechat .divider {
+.typechat .body .divider {
   margin-top: 26px;
   margin-bottom: 26px;
-}
-.typechat .divider p {
   color: #a61111;
   font-size: 16px;
   line-height: 26px;
