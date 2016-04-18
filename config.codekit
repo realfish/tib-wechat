@@ -53,7 +53,7 @@
 		"outputAbbreviatedPath": "\/template-typechat.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/less\/_define.less": {
 		"allowInsecureImports": 0,
