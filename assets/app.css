@@ -460,6 +460,22 @@ img {
   line-height: 26px;
   margin: 0;
 }
+.typechat .body-quote {
+  margin-top: 26px;
+  margin-bottom: 0px;
+  padding-left: 14px;
+  border-left: 2px #c8c8c8 solid;
+}
+.typechat .body-quote p {
+  color: #8c8c8c;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 18px;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+}
 .typechat .body strong {
   font-weight: 600;
 }
