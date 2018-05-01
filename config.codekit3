@@ -7,7 +7,7 @@
 		"uuidString": "5A7609FE-10AB-4657-9907-38643D57DADC"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/assets\/app.css": {
 		"aP": 0,
@@ -17,12 +17,12 @@
 		"oA": 1,
 		"oAP": "\/assets\/app-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/assets\/wechat-footer.png": {
 		"ft": 32768,
 		"iS": 12293,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/wechat-footer.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -81,7 +81,7 @@
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/assets\/app.css",
 		"oF": 0,
@@ -129,7 +129,7 @@
 	"\/template-typechat.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/template-typechat.html",
 		"oF": 0
 		}
@@ -142,7 +142,8 @@
 	"creationDate": 500856336,
 	"displayValue": "TIB-WeChat",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "brackets_gray",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1945,6 +1946,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
