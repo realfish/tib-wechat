@@ -50,6 +50,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/jade/template-typechat.jade": {
+		"cB": 0,
+		"cOD": 0,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-typechat.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/less/_define.less": {
 		"aP": 1,
 		"bl": 0,
