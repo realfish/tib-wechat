@@ -171,8 +171,7 @@ figure {
  * Address differences between Firefox and other browsers.
  */
 hr {
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   height: 0;
 }
 /**
@@ -278,8 +277,7 @@ input {
  */
 input[type="checkbox"],
 input[type="radio"] {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   /* 1 */
   padding: 0;
   /* 2 */
@@ -300,8 +298,7 @@ input[type="number"]::-webkit-outer-spin-button {
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   /* 2 */
 }
 /**
@@ -501,6 +498,13 @@ img {
   width: 100%;
   text-align: center;
 }
+.typechat .pic p {
+  margin-top: 0;
+  margin-bottom: 9px;
+  color: #bbb;
+  font-size: 12px;
+  line-height: 18px;
+}
 .typechat .footer {
   margin-top: 0px;
   margin-bottom: 26px;
@@ -517,3 +521,4 @@ img {
   font-size: 12px;
   line-height: 18px;
 }
+/*# sourceMappingURL=app.css.map */

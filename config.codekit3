@@ -21,6 +21,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/assets\/app.css.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/app.css.map",
+      "oF" : 0
+    },
     "\/assets\/wechat-footer.png" : {
       "ft" : 32768,
       "iS" : 12293,
@@ -51,6 +59,16 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/_template.html",
+      "oF" : 0,
+      "oS" : 0
+    },
+    "\/jade\/shanghaitype.pug" : {
+      "cB" : 0,
+      "cOD" : 0,
+      "ft" : 512,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/shanghaitype.html",
       "oF" : 0,
       "oS" : 0
     },
@@ -136,6 +154,14 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
+    },
+    "\/shanghaitype.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/shanghaitype.html",
+      "oF" : 0
     },
     "\/template-typechat.html" : {
       "cB" : 0,
