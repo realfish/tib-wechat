@@ -72,6 +72,16 @@
       "oF" : 0,
       "oS" : 0
     },
+    "\/jade\/t-longform.pug" : {
+      "cB" : 0,
+      "cOD" : 0,
+      "ft" : 512,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t-longform.html",
+      "oF" : 0,
+      "oS" : 0
+    },
     "\/jade\/template-typechat.pug" : {
       "cB" : 0,
       "cOD" : 0,
@@ -161,6 +171,14 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/shanghaitype.html",
+      "oF" : 0
+    },
+    "\/t-longform.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/t-longform.html",
       "oF" : 0
     },
     "\/template-typechat.html" : {

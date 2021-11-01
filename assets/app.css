@@ -376,7 +376,7 @@ img {
 .typechat .heading h3 {
   margin-top: 0;
   margin-bottom: 0;
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   font-weight: 600;
   line-height: 26px;
@@ -390,7 +390,7 @@ img {
   margin-bottom: 26px;
 }
 .typechat .body p {
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
   margin-top: 18px;
@@ -403,7 +403,7 @@ img {
   margin-bottom: 26px;
 }
 .typechat .body-list p {
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
   margin-top: 7px;
@@ -417,12 +417,12 @@ img {
   margin-bottom: 13px;
   margin-left: 0px;
   padding-left: 26px;
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
 }
 .typechat .body-list li {
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
   margin: 0;
@@ -432,7 +432,7 @@ img {
   margin-bottom: 26px;
 }
 .typechat .body-list--figure p {
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
   margin-top: 7px;
@@ -447,12 +447,12 @@ img {
   margin-bottom: 13px;
   margin-left: 0px;
   padding-left: 26px;
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
 }
 .typechat .body-list--figure li {
-  color: #595959;
+  color: #4D4D4D;
   font-size: 16px;
   line-height: 26px;
   margin: 0;
@@ -461,10 +461,10 @@ img {
   margin-top: 26px;
   margin-bottom: 0px;
   padding-left: 14px;
-  border-left: 2px #c8c8c8 solid;
+  border-left: 2px #a6a6a6 solid;
 }
 .typechat .body-quote p {
-  color: #8c8c8c;
+  color: #808080;
   font-size: 16px;
   line-height: 26px;
   margin-top: 18px;
@@ -501,9 +501,13 @@ img {
 .typechat .pic p {
   margin-top: 0;
   margin-bottom: 9px;
-  color: #bbb;
+  color: #999999;
   font-size: 12px;
   line-height: 18px;
+}
+.typechat .ref-mark {
+  color: #a61111;
+  font-weight: 600;
 }
 .typechat .footer {
   margin-top: 0px;
@@ -517,7 +521,7 @@ img {
 .typechat .footer p {
   margin-top: 0;
   margin-bottom: 9px;
-  color: #bbb;
+  color: #999999;
   font-size: 12px;
   line-height: 18px;
 }
